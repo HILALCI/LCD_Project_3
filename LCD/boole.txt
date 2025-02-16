@@ -1,0 +1,1 @@
+F (A,B,C,D) = A + CD + A'BC'D'
